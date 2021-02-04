@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">Hi there 👋</p>
+<h2 align="center">My name is Ronal Henao</h2>
 
-<!--
-**ronalhenao/Ronalhenao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I'm Frontend Developer </h4>
+<p align="center">❤ Frontend is my true passion</p>
 
-Here are some ideas to get you started:
+##### ⚡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning NextJS, NodeJS, Angular, English (A1)
+- 💼 I’m currently working as a freelance and looking for a job as a Front End Developer.
+- 🤔 Knowing new frontend technologies.
+
+##### 💻 Languages & Tools
+- 🔨 Javascript, ReactJs, HTML, CSS, Git, Github, Webpack
+
+##### 📫 You can find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronal-henao/)
